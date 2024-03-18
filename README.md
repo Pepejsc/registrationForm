@@ -12,4 +12,4 @@ Para cualquier pregunta, soporte técnico o consulta relacionada con el registro
 
 ¡Gracias por elegir nuestro servicio y por completar el formulario de registro! Esperamos que disfrutes de tu experiencia en nuestra plataforma.
 
-Link pagina: 
+Link pagina: https://pepejsc.github.io/registrationForm/
